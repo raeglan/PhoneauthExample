@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phoneauth Example</string>
+    <string name="phone_number">Phone number</string>
+    <string name="verification_code">Verification code</string>
+    <string name="restart">Restart</string>
+    <string name="send_code">Send code</string>
+    <string name="confirm_code">Confirm code</string>
+    <string name="everything_okay">Everything alright, you\'re in.</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209103107138",
+    "firebase_url": "https://phoneauth-example.firebaseio.com",
+    "project_id": "phoneauth-example",
+    "storage_bucket": "phoneauth-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209103107138:android:f06e580d347f2738",
+        "android_client_info": {
+          "package_name": "de.alfingo.phoneauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209103107138-2l35eu2rai56q0gnhnrni8lcrc9pgfk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.alfingo.phoneauthexample",
+            "certificate_hash": "f41fcafd3b0a0afe30704a310f3d5fc8b0b8beef"
+          }
+        },
+        {
+          "client_id": "209103107138-tjtklgaefmr6lrlbbvkv6ffms5veb2eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFKcTO1b-KsXND5YojHTQbTFK5CUc-OJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209103107138-tjtklgaefmr6lrlbbvkv6ffms5veb2eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
