@@ -201,6 +201,8 @@ public class MainActivity extends AppCompatActivity {
                 Log.d(TAG, "onVerificationCompleted:" + credential);
 
                 mVerificationCodeEditText.setText(credential.getSmsCode());
+
+                signInWithPhoneAuthCredential(credential);
             }
 
             @Override
